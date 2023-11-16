@@ -1,0 +1,15 @@
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.csproj.AssemblyReference.cache
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.GeneratedMSBuildEditorConfig.editorconfig
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.AssemblyInfoInputs.cache
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.AssemblyInfo.cs
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.csproj.CoreCompileInputs.cache
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\bin\Debug\net6.0\gyakorlas11.16.exe
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\bin\Debug\net6.0\gyakorlas11.16.deps.json
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\bin\Debug\net6.0\gyakorlas11.16.runtimeconfig.json
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\bin\Debug\net6.0\gyakorlas11.16.dll
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\bin\Debug\net6.0\gyakorlas11.16.pdb
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.dll
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\refint\gyakorlas11.16.dll
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.pdb
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\gyakorlas11.16.genruntimeconfig.cache
+D:\PD\asztali\gyakorlas11.16\gyakorlas11.16\obj\Debug\net6.0\ref\gyakorlas11.16.dll
